@@ -9,12 +9,12 @@ Welcome to the React To-Do App! This is a simple and interactive to-do list appl
 
 ## 🚀 Features
 
-**Add Tasks**: Easily add new tasks to your list.
-**Edit Tasks**: Modify existing tasks with a click.
-**Delete Tasks**: Remove tasks when they’re done or no longer needed.
-**Complete Tasks**: Mark tasks as completed with a checkbox.
-**Filter Tasks**: Toggle the visibility of completed tasks.
-**Persist Data**: Tasks are saved in local storage, so they stay even after refreshing the page.
+###Add Tasks: Easily add new tasks to your list.
+###Edit Tasks: Modify existing tasks with a click.
+###Delete Tasks: Remove tasks when they’re done or no longer needed.
+###Complete Tasks: Mark tasks as completed with a checkbox.
+###Filter Tasks: Toggle the visibility of completed tasks.
+###Persist Data: Tasks are saved in local storage, so they stay even after refreshing the page.
 
 ## ⚙️ Getting Started
 
