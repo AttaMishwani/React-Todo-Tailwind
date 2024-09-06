@@ -11,9 +11,6 @@ Welcome to the React To-Do App! This project is a simple yet functional to-do li
 - **Show/Hide Completed Tasks**: Filter tasks to show or hide completed ones.
 - **Local Storage**: Persist tasks using local storage so they remain even after refreshing the page.
 
-## 📸 Screenshots
-
-![App Screenshot](https://via.placeholder.com/800x400?text=To-Do+App+Screenshot)
 
 ## ⚙️ Getting Started
 
