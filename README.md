@@ -22,10 +22,6 @@ It's a fast and interactive to-do list built to practice **React** features and 
 - **Vite** for fast builds and hot module replacement.
 - Deployed on **GitHub Pages**.
 
-## 📸 Screenshots
-
-![App Screenshot](https://via.placeholder.com/600x400)  
-_Add a screenshot of your app here!_
 
 ## 🔗 How to Use
 
